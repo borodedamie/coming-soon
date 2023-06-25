@@ -74,6 +74,8 @@ button[type=submit] {
     padding: 1.2em 2em;
     border-radius: 0.6em;
     border: none;
+    background-color: white !important;
+    color: black !important;
 }
 
 button[type=submit]:hover {
